@@ -14,7 +14,7 @@
 This project demonstrates the deployment of a serverless REST API using AWS Lambda and API Gateway. It includes automated deployments, proper CORS handling, and monitoring solutions.
 
 ## Architecture Diagram
-![Architecture Diagram](https://lucid.app/lucidchart/1a292a3f-febd-4061-ab0a-81ebc16a47d6/edit?viewport_loc=-4719%2C-3607%2C9649%2C3721%2C0_0&invitationId=inv_1bfae792-6397-48f4-999f-875cd0f6280a)
+![Architecture Diagram]()
 
 ## Deployment Process
 1. **AWS Lambda Functions**: Lambda functions are triggered by API Gateway and handle incoming requests.
