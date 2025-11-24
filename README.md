@@ -7,7 +7,7 @@
 
 ## 🏗️ Architecture
 ![Alt text](ServerlessRESTAPIonAWS.png)
-*Why it matters: The diagram shows you understand how services connect*
+
 
 ## 🔧 What I Learned & Challenges Solved
 - **Challenge:** API Gateway CORS errors  
